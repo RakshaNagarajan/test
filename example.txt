@@ -1,1 +1,1 @@
-This is an example file for checking how git flow works.
+Hello all. This is an example file for checking how git flow works. 
