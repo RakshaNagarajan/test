@@ -1,1 +1,1 @@
-Hello, welcome .This is me.  I want to merge this dev to main. This is to check tags and release
+Hello, welcome .This is me.  I want to merge this dev to main. This is to check tags and release. I am checking tag in bash
